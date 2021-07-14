@@ -5,3 +5,8 @@ To install dependincies:
 ```
 npm install 
 ```
+To run 
+```
+node index.js
+
+```
