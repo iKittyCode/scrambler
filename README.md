@@ -10,4 +10,4 @@ To run
 node index.js
 
 ```
-If your on a unix system then You can use my install.sh script
+If your on a unix system then You can use my install.sh script which will install and run the program.
